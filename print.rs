@@ -1,3 +1,3 @@
-fn print_words(){
-	print("Hello, World!");
-}
+fn main(){
+	print!("Hello, World!");
+} 
